@@ -1,0 +1,7 @@
+C:\Users\dmius\source\repos\NewWork3\bin\Debug\NewWork3.exe.config
+C:\Users\dmius\source\repos\NewWork3\bin\Debug\NewWork3.exe
+C:\Users\dmius\source\repos\NewWork3\bin\Debug\NewWork3.pdb
+C:\Users\dmius\source\repos\NewWork3\obj\Debug\NewWork3.csprojAssemblyReference.cache
+C:\Users\dmius\source\repos\NewWork3\obj\Debug\NewWork3.csproj.CoreCompileInputs.cache
+C:\Users\dmius\source\repos\NewWork3\obj\Debug\NewWork3.exe
+C:\Users\dmius\source\repos\NewWork3\obj\Debug\NewWork3.pdb
